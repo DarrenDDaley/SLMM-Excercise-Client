@@ -1,0 +1,16 @@
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Senior\SLMM-Senior\SLMM-Senior\bin\Debug\SLMM-Senior.exe.config
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Senior\SLMM-Senior\SLMM-Senior\bin\Debug\SLMM-Senior.exe
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Senior\SLMM-Senior\SLMM-Senior\bin\Debug\SLMM-Senior.pdb
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Senior\SLMM-Senior\SLMM-Senior\obj\Debug\SLMM-Senior.csprojResolveAssemblyReference.cache
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Senior\SLMM-Senior\SLMM-Senior\obj\Debug\SLMM-Senior.exe
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Senior\SLMM-Senior\SLMM-Senior\obj\Debug\SLMM-Senior.pdb
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Senior\SLMM-Senior\SLMM-Senior\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Senior\SLMM-Senior\SLMM-Senior\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Client\SLMM-Senior\SLMM-Senior\bin\Debug\SLMM-Senior.exe.config
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Client\SLMM-Senior\SLMM-Senior\obj\Debug\SLMM-Senior.exe
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Client\SLMM-Senior\SLMM-Senior\obj\Debug\SLMM-Senior.pdb
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Client\SLMM-Senior\SLMM-Senior\bin\Debug\SLMM-Senior.exe
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Client\SLMM-Senior\SLMM-Senior\bin\Debug\SLMM-Senior.pdb
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Client\SLMM-Senior\SLMM-Senior\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Client\SLMM-Senior\SLMM-Senior\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darren\Source\Repos\SLMM-Excercise-Client\SLMM-Senior\SLMM-Senior\obj\Debug\SLMM-Senior.csprojResolveAssemblyReference.cache

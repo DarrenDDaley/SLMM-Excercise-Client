@@ -10,7 +10,7 @@ namespace SLMM_Senior
     class Program
     {
         private static MowerSession session;
-        private static readonly string baseUrl = "http://localhost:61379/SLMM/";
+        private static readonly string baseUrl = "http://localhost:52513/SLMM/";
 
         private static bool exit = false;
         private static bool isDataValidLawn = false;

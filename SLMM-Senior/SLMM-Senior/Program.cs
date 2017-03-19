@@ -7,6 +7,10 @@ using System.Linq;
 
 namespace SLMM_Senior
 {
+    // So if you notice this side the of application doesn't have a unit testing project. This is because the tenious connection from the server side application 
+    // and the parsing of the information would of given great results. But what I did instead was write a rough script for myself to the program on this side 
+    // on top of that I did unit test the server side controller to make sure everything was working correctly and it passed with flying colours
+
     class Program
     {
         // This the mower session object that is passed back over to the server
